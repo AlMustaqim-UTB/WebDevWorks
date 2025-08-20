@@ -1,10 +1,16 @@
 body{
+    background-color: #ffeb90;
     color: brown;
-    font-size: 1.2cm;
+    font-size: 15px;
     font-family: Arial, Verdana, sans-serif;
 }
 
 h1{
     font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h4{
+    text-align: center;
 }
 
